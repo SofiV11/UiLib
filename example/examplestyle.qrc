@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/example/css">
+        <file>examplestyle.css</file>
+    </qresource>
+    <qresource prefix="/new/images">
+        <file>background_1.png</file>
+        <file>spin_box_up.png</file>
+        <file>spin_box_down.png</file>
+    </qresource>
+</RCC>

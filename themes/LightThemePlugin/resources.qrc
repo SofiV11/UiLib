@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/theme">
+        <file>resources/light-theme.css</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>resources/images/check_box_checked.png</file>
+        <file>resources/images/check_box_checked_hovered.png</file>
+        <file>resources/images/check_box_checked_hovered_light.png</file>
+        <file>resources/images/check_box_checked_light.png</file>
+        <file>resources/images/check_box_unchecked.png</file>
+        <file>resources/images/check_box_unchecked_hovered.png</file>
+        <file>resources/images/check_box_unchecked_hovered_light.png</file>
+        <file>resources/images/check_box_unchecked_light.png</file>
+        <file>resources/images/combo_box_down_arrow.png</file>
+        <file>resources/images/Dot.png</file>
+        <file>resources/images/horizontal_scrollbar_left_arrow.png</file>
+        <file>resources/images/horizontal_scrollbar_right_arrow.png</file>
+        <file>resources/images/radio_b_checked.png</file>
+        <file>resources/images/radio_b_checked_hover.png</file>
+        <file>resources/images/radio_b_unchecked.png</file>
+        <file>resources/images/radio_b_unchecked_hover.png</file>
+        <file>resources/images/scroll_bar_down_arrow.png</file>
+        <file>resources/images/scroll_bar_up_arrow.png</file>
+        <file>resources/images/search.png</file>
+    </qresource>
+</RCC>
